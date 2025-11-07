@@ -1,5 +1,5 @@
 AUTHOR = 'Patrick Dornian'
-SITENAME = 'patrickd'
+SITENAME = 'patrickD'
 SITEURL = ""
 
 # THEME = "flex"
