@@ -7,6 +7,7 @@ PATH = "content"
 TIMEZONE = 'MST'
 
 DEFAULT_LANG = 'English'
+DEFAULT_DATE = 'fs'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
