@@ -2,7 +2,7 @@ AUTHOR = 'Patrick Dornian'
 SITENAME = 'patrickD'
 SITEURL = ""
 
-# THEME = "flex"
+THEME = "theme/notmyidea"
 PATH = "content"
 
 TIMEZONE = 'MST'
