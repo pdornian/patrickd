@@ -1,7 +1,7 @@
 Title: Stuff I Like
 Slug: stuff-i-like
 Author: patrickD
-Summary: Links to creators, independent (and not so independent) media, and other reasources.
+Summary: Links to creators, independent (and not so independent) media, and other resources.
 
 If I was cool, I'd make this into an OPML.
 

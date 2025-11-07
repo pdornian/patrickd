@@ -1,6 +1,6 @@
-AUTHOR = 'Patrick Dornian'
+AUTHOR = 'patrickD'
 SITENAME = 'patrickD'
-SITEURL = ""
+SITEURL = "https://patrickd.xyz"
 
 THEME = "theme/notmyidea"
 PATH = "content"
@@ -24,6 +24,10 @@ LINKS = (
 )
 
 # Social widget
+
+# if true, adds minimal hcard to social links
+# currently hardcoded into base.html in notmyidea template.
+SOCIAL_HCARD = True
 SOCIAL = (
     ("LinkedIn", "https://www.linkedin.com/in/patrick-dornian/"),
     ("GitHub", "https://github.com/pdornian"),

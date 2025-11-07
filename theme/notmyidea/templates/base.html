@@ -61,6 +61,9 @@
                                                         <li><a href="{{ FEED_DOMAIN }}/{% if FEED_ALL_RSS_URL %}{{ FEED_ALL_RSS_URL }}{% else %}{{ FEED_ALL_RSS }}{% endif %}" type="application/rss+xml" rel="alternate">rss feed</a></li>
                                                 {% endif %}
 
+                                                {% if SOCIAL_HCARD %}
+                                                        <li class="h-card"><a href="{{ SITEURL }}" rel="me">Patrick Dornian</a></li>
+                                                {% endif %}
                                                 {% for name, link in SOCIAL %}
                                                         <li><a href="{{ link }}" rel="me">{{ name }}</a></li>
                                                 {% endfor %}
