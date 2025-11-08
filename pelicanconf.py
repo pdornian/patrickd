@@ -1,8 +1,8 @@
-AUTHOR = 'Patrick Dornian'
+AUTHOR = 'patrickD'
 SITENAME = 'patrickD'
 SITEURL = ""
 
-# THEME = "flex"
+THEME = "theme/notmyidea"
 PATH = "content"
 
 TIMEZONE = 'MST'
@@ -24,6 +24,10 @@ LINKS = (
 )
 
 # Social widget
+
+# if true, adds minimal hcard to social links
+# currently hardcoded into base.html in notmyidea template.
+SOCIAL_HCARD = True
 SOCIAL = (
     ("LinkedIn", "https://www.linkedin.com/in/patrick-dornian/"),
     ("GitHub", "https://github.com/pdornian"),
