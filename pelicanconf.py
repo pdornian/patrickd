@@ -1,6 +1,12 @@
 AUTHOR = 'patrickD'
 SITENAME = 'patrickD'
+
 SITEURL = ""
+PAGE_URL = "pages/{slug}"
+ARTICLE_URL = 'posts/{date:%Y}/{date:%b}/{date:%d}/{slug}/'
+ARTICLE_SAVE_AS = 'posts/{date:%Y}/{date:%b}/{date:%d}/{slug}.html'
+CATEGORY_URL = 'category/{slug}/'
+TAG_URL = 'tag/{slug}'
 
 THEME = "theme/notmyidea"
 PATH = "content"
@@ -9,6 +15,7 @@ TIMEZONE = 'MST'
 
 DEFAULT_LANG = 'en'
 DEFAULT_DATE = 'fs'
+DEFAULT_CATEGORY = 'posts'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -18,10 +25,10 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (
-    ("Pelican", "https://getpelican.com/"),
-    ("Jinja2", "https://palletsprojects.com/p/jinja/"),
-)
+# LINKS = (
+#     ("Pelican", "https://getpelican.com/"),
+#     ("Jinja2", "https://palletsprojects.com/p/jinja/"),
+# )
 
 # Social widget
 

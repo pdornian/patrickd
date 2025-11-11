@@ -1,5 +1,6 @@
 Title: A Personal Website In The Year Of Our Lord 2025
-Category: Blog
+Category: Posts
+Date: 2025-11-07 00:00
 Tags: digital sovereignty, DIY
 Slug: personal-website
 Author: patrickD
