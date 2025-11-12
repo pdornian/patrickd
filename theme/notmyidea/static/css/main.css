@@ -13,6 +13,9 @@
 @import url("pygment.css");
 @import url("typogrify.css");
 @import url("fonts.css");
+/* fontawesome icons */
+@import url("http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
+
 
 /***** Global *****/
 /* Body */
@@ -364,6 +367,36 @@ div.figure p.caption, figure p.caption { /* margin provided by figure */
     float: right;
     max-width: 175px;
 }
+
+.icon::before {
+  display: inline-block;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+}
+
+.social a[href*='atom.xml']:before,
+.blogroll a[href*='atom.xml']:before {
+    font-family: "FontAwesome";
+    content: '\f143';
+    margin-right: 2px;
+}
+
+.social a[href*='linkedin.com']:before,
+.blogroll a[href*='linkedin.com']:before {
+    font-family: "FontAwesome";
+    content: '\f08c';
+    margin-right: 2px;
+}
+
+.social a[href*='github.com']:before,
+.blogroll a[href*='github.com']:before {
+    font-family: "FontAwesome";
+    content: '\f09b';
+    margin-right: 2px;
+}
+
+
+
 
 /*
 	About

@@ -1,5 +1,6 @@
 Title: A Personal Website In The Year Of Our Lord 2025
-Category: Blog
+Category: Posts
+Date: 2025-11-07 00:00
 Tags: digital sovereignty, DIY
 Slug: personal-website
 Author: patrickD
@@ -9,6 +10,6 @@ TL;DR: Owning and publishing your own data and content outside the big tech ecos
 
 A lot about the process has felt like this.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/URvWSsAgtJE?si=zaRWQevoW3gmTCcz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="450" height="253" src="https://www.youtube.com/embed/URvWSsAgtJE?si=zaRWQevoW3gmTCcz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 WIP.

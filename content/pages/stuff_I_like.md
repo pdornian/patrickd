@@ -3,36 +3,38 @@ Slug: stuff-i-like
 Author: patrickD
 Summary: Links to creators, independent (and not so independent) media, and other resources.
 
-If I was cool, I'd make this into an OPML.
+Poorly categorized links to creators, independent (and not so independent) media, and other things that I read sometimes.
 
-https://indieweb.org/
+# Tech
+- [IndieWeb](https://indieweb.org/)
+- [Molly White](https://www.mollywhite.net/)
+    - [citation needed](https://www.citationneeded.news/)
+    - [Web3 is Going Just Great](https://www.web3isgoinggreat.com/)
+- [AI as Normal Technology](https://www.normaltech.ai/)
 
-https://defector.com/
+# Math
+- [Quanta](https://www.quantamagazine.org/)
+- [Terry Tao](https://terrytao.wordpress.com/)
 
-https://www.welcometohellworld.com/
+# Sports
+- [Defector](https://defector.com/)
+- [Secret Base](https://www.youtube.com/c/SecretBaseSBN)
 
-https://www.mollywhite.net/
+# Culture, Art, and Politics
+You thought these things were seperate?
 
-https://www.citationneeded.news/
+- [Welcome to Hell World](https://www.welcometohellworld.com/)
+- [Pluralistic: Daily links from Cory Doctorow](https://pluralistic.net/)
+- [Kim Kelly](https://www.kim-kelly.com/)
+    - [Salvo](https://salvo.ghost.io/)
+- [Garbage Day](https://www.garbageday.email/)
+- [Read Max](https://maxread.substack.com/)
+- [The Comics Journal](https://www.tcj.com/)
+- [Never Hungover](https://www.neverhungover.club/)
 
-https://www.web3isgoinggreat.com/
 
-https://salvo.ghost.io/
 
-https://pluralistic.net/
 
-https://www.normaltech.ai/
 
-https://www.garbageday.email/
 
-https://thebaffler.com/
 
-https://www.neverhungover.club/
-
-https://maxread.substack.com/
-
-https://www.quantamagazine.org/
-
-https://terrytao.wordpress.com/
-
-https://www.tcj.com/
