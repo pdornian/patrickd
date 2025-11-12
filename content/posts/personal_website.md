@@ -10,6 +10,6 @@ TL;DR: Owning and publishing your own data and content outside the big tech ecos
 
 A lot about the process has felt like this.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/URvWSsAgtJE?si=zaRWQevoW3gmTCcz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="450" height="253" src="https://www.youtube.com/embed/URvWSsAgtJE?si=zaRWQevoW3gmTCcz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 WIP.
