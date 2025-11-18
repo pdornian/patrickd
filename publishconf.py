@@ -8,6 +8,8 @@ sys.path.append(os.curdir)
 from pelicanconf import *
 
 # If your site is available via HTTPS, make sure SITEURL begins with https://
+
+# hardcoding siteurl breaks deployment prev so omitting for now
 # SITEURL = "https://patrickd.xyz"
 FEED_DOMAIN = "https://patrickd.xyz"
 RELATIVE_URLS = False
