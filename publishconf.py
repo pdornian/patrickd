@@ -11,7 +11,7 @@ from pelicanconf import *
 
 # hardcoding siteurl breaks deployment prev so omitting for now
 # SITEURL = "https://patrickd.xyz"
-FEED_DOMAIN = "https://patrickd.xyz"
+
 RELATIVE_URLS = False
 
 FEED_ALL_ATOM = "feeds/all.atom.xml"

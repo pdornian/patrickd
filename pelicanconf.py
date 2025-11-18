@@ -2,6 +2,7 @@ AUTHOR = 'patrickD'
 SITENAME = 'patrickD'
 
 SITEURL = ""
+FEED_DOMAIN = "https://patrickd.xyz"
 PAGE_URL = "pages/{slug}"
 ARTICLE_URL = 'posts/{date:%Y}/{date:%b}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = 'posts/{date:%Y}/{date:%b}/{date:%d}/{slug}.html'
