@@ -2,6 +2,7 @@ AUTHOR = 'patrickD'
 SITENAME = 'patrickD'
 
 SITEURL = ""
+FEED_DOMAIN = "https://patrickd.xyz"
 PAGE_URL = "pages/{slug}"
 ARTICLE_URL = 'posts/{date:%Y}/{date:%b}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = 'posts/{date:%Y}/{date:%b}/{date:%d}/{slug}.html'
@@ -10,6 +11,7 @@ TAG_URL = 'tag/{slug}'
 
 THEME = "theme/notmyidea"
 PATH = "content"
+STATIC_PATHS = ['media']
 
 TIMEZONE = 'MST'
 
@@ -42,6 +44,8 @@ SOCIAL = (
 )
 
 DEFAULT_PAGINATION = 25
+
+DELETE_OUTPUT_DIRECTORY = True
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
