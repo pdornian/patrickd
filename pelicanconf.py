@@ -11,6 +11,7 @@ TAG_URL = 'tag/{slug}'
 
 THEME = "theme/notmyidea"
 PATH = "content"
+STATIC_PATHS = ['media']
 
 TIMEZONE = 'MST'
 
