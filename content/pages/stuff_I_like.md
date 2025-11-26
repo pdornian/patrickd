@@ -22,7 +22,8 @@ Poorly categorized links to creators, independent (and not so independent) media
 
 # Culture, Art, and Politics
 You thought these things were seperate?
-
+- [Austin Killips](https://austinkillips.com/)
+    - [Estro Junkie](https://estrojunkie.substack.com/)
 - [Welcome to Hell World](https://www.welcometohellworld.com/)
 - [Pluralistic: Daily links from Cory Doctorow](https://pluralistic.net/)
 - [Kim Kelly](https://www.kim-kelly.com/)
