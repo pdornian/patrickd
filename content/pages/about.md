@@ -3,7 +3,7 @@ Slug: about
 Author: patrickD
 Summary: Personal Bio
 
-Mathematician turned data specialist.
+Math dweeb turned data specialist. Mostly this means data science, but along the way I've handled data in all stages of pipelines from scraping, to staging, to reporting and analytics. I've taken a particular interest in data engineering and architecture after experiencing the tendency of corporate data infrastructure to be held together by duct tape and silly putty.
 
 Other interests include cultural commentary, art movies, street metal, and puzzle games. Trying to spend less time doomscrolling and more time making and/or looking at cool things. Results TBD.
 
