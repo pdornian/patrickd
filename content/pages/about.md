@@ -3,13 +3,11 @@ Slug: about
 Author: patrickD
 Summary: Personal Bio
 
-Not quite mathematician.
-Not quite data scientist.
-Not quite developer.
+Mathematician turned data specialist.
 
-Other interests include cultural commentary, art movies, street metal, and puzzle games. Trying to spend less time doomscrolling and more time making and/or looking at cool things. Results TBD. Traditionally, I'm good at knowing things and less good at doing things, so I'm trying to even that ratio out a bit.
+Other interests include cultural commentary, art movies, street metal, and puzzle games. Trying to spend less time doomscrolling and more time making and/or looking at cool things. Results TBD.
 
-This site exists despite my lack of confidence as a developer or professional need for it because of my interest in [IndieWeb](https://indieweb.org/) principals and divesting from the corporate internet. Also, I figure it's decent skill development.
+This site mostly exists because of my interest in [IndieWeb](https://indieweb.org/) principals and divesting from the corporate internet. Also, I figure it's decent skill development.
 
 It is hosted for the large first year price of three dollars. It could have been created for 1% of the effort with better design and features by using any number of microblogging or GUI based hosting services, but that would have been less interesting.
 
