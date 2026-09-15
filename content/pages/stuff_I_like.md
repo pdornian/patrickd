@@ -21,7 +21,6 @@ Poorly categorized links to creators, independent (and not so independent) media
 - [Secret Base](https://www.youtube.com/c/SecretBaseSBN)
 
 # Culture, Art, and Politics
-You thought these things were seperate?
 
 - [Welcome to Hell World](https://www.welcometohellworld.com/)
 - [Pluralistic: Daily links from Cory Doctorow](https://pluralistic.net/)
@@ -31,10 +30,5 @@ You thought these things were seperate?
 - [Read Max](https://maxread.substack.com/)
 - [The Comics Journal](https://www.tcj.com/)
 - [Never Hungover](https://www.neverhungover.club/)
-
-
-
-
-
-
-
+- [Austin Killips](https://austinkillips.com/)
+    - [Estro Junkie](https://estrojunkie.substack.com/)
