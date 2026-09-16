@@ -441,8 +441,7 @@ div.figure p.caption, figure p.caption { /* margin provided by figure */
     display: block;
     clear: both;
     border-top: 1px solid #eee;
-    padding: 1em 0;
-    padding-top: 0em;
+    padding: 0.2em ;
 }
 li:first-child .hentry, #content > .hentry {border: 0; margin: 0;}
 #content > .hentry {padding: 1em 0;}
@@ -466,7 +465,7 @@ li:first-child .hentry, #content > .hentry {border: 0; margin: 0;}
 
 	/* Blog Index */
 #posts-list {list-style: none; margin: 0;}
-#posts-list .hentry {padding-left: 10px; position: relative; display:flex; align-items: start;}
+#posts-list .hentry {padding-left: 10px; position: relative; display:flex; align-items: start; justify-content: space-between;}
 
 #posts-list footer {
     left: 10px;
