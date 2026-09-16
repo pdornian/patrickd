@@ -465,7 +465,7 @@ li:first-child .hentry, #content > .hentry {border: 0; margin: 0;}
 
 	/* Blog Index */
 #posts-list {list-style: none; margin: 0;}
-#posts-list .hentry {padding-left: 10px; position: relative; display:flex; align-items: start; justify-content: space-between;}
+#posts-list .hentry {position: relative; display:flex; align-items: start; justify-content: space-between;}
 
 #posts-list footer {
     left: 10px;
