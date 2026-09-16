@@ -1,5 +1,5 @@
 todo:
-- I think this theme was made in 2009. I kinda wanna import bootstrap and use some of its features, but even just importing it messes with alignment (probably on container items but I didn't look closely). So if I wanna do that I gotta figure out the interactions.
+- Date that autoupdates on edited posts is UTC. Should probably change that. Also, every posted date gets updated to the latest date when I upload the website. Should probably fix that.
 
 notes:
-- I changed the publish config to have SITEURL set to blank so that test deploy links to redirect to the live site. Apparently this is isn't as good as hardcoding the domain, but I'm not sure why.
+- I changed the publish config to have SITEURL set to blank for reasons I can't really remember.
