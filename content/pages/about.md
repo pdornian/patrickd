@@ -19,4 +19,4 @@ It is hosted for the large first year price of three dollars. It could have been
     - It is slowly diverging from this as I make manual edits. Mostly just deleting the stuff I don't use for clarity, but who knows what might happen?
 - The site generating code is hosted on [GitHub](https://github.com/pdornian/patrickd) in a personal repo.
 - The domain [patrickd.xyz](https://patrickd.xyz/) was registered from [porkbun](https://porkbun.com/).
-- The site itself is built and hosted by [Netlifly](https://www.netlify.com/) on its free tier (unless I smash the build button too much, in which case I might upgrade).
+- The site itself is built and hosted by [Netlify](https://www.netlify.com/) on its free tier (unless I smash the build button too much, in which case I might upgrade).

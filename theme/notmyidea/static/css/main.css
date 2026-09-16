@@ -437,15 +437,15 @@ div.figure p.caption, figure p.caption { /* margin provided by figure */
 
 /***** Sections *****/
 /* Blog */
-.hentry {
+.h-entry {
     display: block;
     clear: both;
     border-top: 1px solid #eee;
     padding: 0.2em ;
 }
-li:first-child .hentry, #content > .hentry {border: 0; margin: 0;}
-#content > .hentry {padding: 1em 0;}
-.hentry img{display : none ;}
+li:first-child .h-entry, #content > .h-entry {border: 0; margin: 0;}
+#content > .h-entry {padding: 1em 0;}
+.h-entry img{display : none ;}
 .entry-title {font-size: 3em; margin-bottom: 10px; margin-top: 0;}
 .entry-title a:link, .entry-title a:visited {text-decoration: none; color: #333;}
 .entry-title a:visited {background-color: #fff;}
@@ -456,16 +456,16 @@ li:first-child .hentry, #content > .hentry {border: 0; margin: 0;}
     }
 }
 
-.hentry .post-info * {font-style: normal;}
+.h-entry .post-info * {font-style: normal;}
 
 	/* Content */
-.hentry footer {margin-bottom: 0.5em;}
-.hentry footer address {display: inline;}
+.h-entry footer {margin-bottom: 0.5em;}
+.h-entry footer address {display: inline;}
 #posts-list footer address {display: block;}
 
 	/* Blog Index */
 #posts-list {list-style: none; margin: 0;}
-#posts-list .hentry {position: relative; display:flex; align-items: start; justify-content: space-between;}
+#posts-list .h-entry {position: relative; display:flex; align-items: start; justify-content: space-between;}
 
 #posts-list footer {
     left: 10px;
