@@ -99,7 +99,7 @@ li { margin-top: 0.5em;
 
 .post-info {
     /*float:inline-end;*/
-    margin:10px;
+    margin-bottom:1em;
     padding:5px;
 }
 
@@ -464,13 +464,13 @@ li:first-child .hentry, #content > .hentry {border: 0; margin: 0;}
 
 	/* Blog Index */
 #posts-list {list-style: none; margin: 0;}
-#posts-list .hentry {padding-left: 10px; position: relative;}
+#posts-list .hentry {padding-left: 10px; position: relative; display:flex; align-items: start;}
 
 #posts-list footer {
     left: 10px;
     position: relative;
     float: left;
-    top: 0.5em;
+    top: 0em;
     max-width: 190px;
 }
 
