@@ -101,6 +101,7 @@ li { margin-top: 0.5em;
     /*float:inline-end;*/
     margin-bottom:1em;
     padding:5px;
+    padding-top: 0em;
 }
 
 .post-info p{
